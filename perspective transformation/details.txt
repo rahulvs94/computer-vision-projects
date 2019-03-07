@@ -1,7 +1,3 @@
-# computer vision projects
-
-PERSPECTIVE TRANSFORMATION 
-
 Approach 1:
 	
 	- Implemented using findContours() function from OpenCV
@@ -17,5 +13,4 @@ Approach 2:
 	- Implemented using Harris corner detector method
 	- Needs to adjust input parameters in cornerHarris() function to get corner positions
 	- Adjusted the points' position in oldPoints variable to get proper transformed image
-
 
