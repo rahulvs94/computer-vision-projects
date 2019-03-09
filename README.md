@@ -19,3 +19,10 @@ Approach 2:
 	- Adjusted the points' position in oldPoints variable to get proper transformed image
 
 
+Optical Character Recognition (OCR) using Pytesseract
+
+	- Used Harris corner detector to get transformed image
+	- Implemented pytesseract image_to_string() function to recognize characters
+
+reference - https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
+
